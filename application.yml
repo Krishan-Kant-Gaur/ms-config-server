@@ -1,6 +1,3 @@
-spring:
-  application:
-    name: HaHa
 eureka:
   client:
     fetch-registry: true
